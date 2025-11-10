@@ -32,14 +32,7 @@ Gosto de unir desenvolvimento e design para criar soluções que tragam boas exp
 
 ---
 
-### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img style="border-radius: 15px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=RaiVidal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img style="border-radius: 15px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiVidal&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
 
 <p align="center">
   💬 <b>Conecte-se comigo!</b><br>
