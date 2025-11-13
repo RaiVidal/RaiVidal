@@ -3,7 +3,7 @@
 # Oie, bem vindo(a) ao meu perfil! 👋
 
 Me chamo Raíssa, sou técnica em informática pelo IFPE e bacharelanda em Sistemas de Informação pela UniFAP-CE.  
-Desenvolvedora Full Stack Júnior, além de designer UI/UX.  
+Desenvolvedora Full Stack em formação. :)
 
 ---
 
