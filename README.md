@@ -2,7 +2,7 @@
 
 # Oie, bem vindo(a) ao meu perfil! 👋
 
-Me chamo Raíssa, sou técnica em informática pelo IFPE e bacharelanda em Sistemas de Informação pela UniFAP-CE.  
+Me chamo Raíssa, sou técnica em informática pelo IFSPE e bacharelanda em Sistemas de Informação pela UniFAP-CE.  
 Desenvolvedora Full Stack em formação. :)
 
 ---
