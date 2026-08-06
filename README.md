@@ -1,6 +1,6 @@
-#Oie, bem-vindo(a) ao meu portfólio!💙 
+#Oie, bem-vindo(a) ao meu portfólio! 
 
-Me chamo Raíssa, sou Bacharela em Sistemas de Informação. Atuo na area da Engenharia de Software e sou entusiasta da Mecatrônica.
+Me chamo Raíssa, sou Graduanda em Sistemas de Informação. Atuo na area da Engenharia de Software e sou entusiasta da Mecatrônica.
 
 ---
 
