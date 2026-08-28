@@ -1,18 +1,18 @@
 #Oie, bem-vindo(a) ao meu portfólio! 
 
-Me chamo Raíssa, sou Graduanda em Sistemas de Informação. Atuo na area da Engenharia de Software e sou entusiasta da Mecatrônica.
+Me chamo Raíssa, sou Graduanda em Sistemas de Informação e atuo na área da Engenharia de Software. Gosto, estudo e desenvolvo sistemas IOT e automações mecatrônica. 
 
 ---
 
 #Tecnologias e Ferramentas
 
-As que estudo atualmente ;)
+Linguagens atuais
 <p align="left">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" height="35" alt="Ruby" />
   <img src="https://img.shields.io/badge/Rails-CC0000?style=plastic&logo=ruby-on-rails&logoColor=white" height="35" alt="Ruby on Rails" />
 </p>
 
- Demais que tenho conhecimento :)
+ Algumas das que tenho experiência:)
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" height="30" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" height="30" alt="Laravel" />
