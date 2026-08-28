@@ -1,6 +1,6 @@
 #Oie, bem-vindo(a) ao meu portfólio! 
 
-Me chamo Raíssa, sou Graduanda em Sistemas de Informação e atuo na área da Engenharia de Software. Gosto, estudo e desenvolvo sistemas IOT e automações mecatrônica. 
+Me chamo Raíssa, sou Graduanda em Sistemas de Informação e atuo na área da Engenharia de Software. Gosto, estudo e desenvolvo sistemas IOT e automações mecatrônicas. 
 
 ---
 
