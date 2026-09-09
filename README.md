@@ -6,7 +6,7 @@ Me chamo Raíssa, sou técnica em Informática pelo IFSertãoPE e graduanda em S
 
 Tecnologias e Ferramentas ->
 
-Linguagem que estudo atualmente 
+Linguagem que estudo atualmente:
 <p align="left">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" height="35" alt="Ruby" />
   <img src="https://img.shields.io/badge/Rails-CC0000?style=plastic&logo=ruby-on-rails&logoColor=white" height="35" alt="Ruby on Rails" />
