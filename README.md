@@ -1,18 +1,18 @@
 Oie, bem-vindo(a) ao meu portfólio! 
 
-Me chamo Raíssa, sou Técnica em Informática pelo IFSertãoPE e  Graduanda em Sistemas de Informação pela UniFAP CE. Atuo na área da Engenharia de Software,  atualmente trabalho, estudo e desenvolvo sistemas de software/IOT e automações mecatrônicas. 
+Me chamo Raíssa, sou técnica em Informática pelo IFSertãoPE e graduanda em Sistemas de Informação pela UniFAP CE. Atuo na área de Engenharia de Software e, atualmente, trabalho no desenvolvimento de sistemas de software/IoT e automações mecatrônicas.
 
 ---
 
 Tecnologias e Ferramentas ->
 
-Linguagens atuais
+Linguagem que estudo atualmente 
 <p align="left">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=ruby&logoColor=white" height="35" alt="Ruby" />
   <img src="https://img.shields.io/badge/Rails-CC0000?style=plastic&logo=ruby-on-rails&logoColor=white" height="35" alt="Ruby on Rails" />
 </p>
 
- Algumas das que tenho experiência:)
+ Linguagens de experiência -> 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" height="30" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" height="30" alt="Laravel" />
