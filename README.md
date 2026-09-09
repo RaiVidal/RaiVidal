@@ -1,10 +1,10 @@
-#Oie, bem-vindo(a) ao meu portfólio! 
+Oie, bem-vindo(a) ao meu portfólio! 
 
-Me chamo Raíssa, sou Graduanda em Sistemas de Informação e atuo na área da Engenharia de Software. Gosto, estudo e desenvolvo sistemas IOT e automações mecatrônicas. 
+Me chamo Raíssa, sou Técnica em Informática pelo IFSertãoPE e  Graduanda em Sistemas de Informação pela UniFAP CE. Atuo na área da Engenharia de Software,  atualmente trabalho, estudo e desenvolvo sistemas de software/IOT e automações mecatrônicas. 
 
 ---
 
-#Tecnologias e Ferramentas
+Tecnologias e Ferramentas ->
 
 Linguagens atuais
 <p align="left">
