@@ -4,7 +4,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Oie, bem-vindo(a) ao meu portfólio!</h2>
+<h1 data-importer="text" align="center">Oie, bem-vindo(a) ao meu GitHub!</h2>
 
 ###
 
