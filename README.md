@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">.✧˖ Me chamo Raíssa, sou técnica em Informática pelo IFSertãoPE e graduanda em Sistemas de Informação pela UniFAP CE. Atuo na área da Engenharia de Software, desenvolvendo sistemas de gerenciamento completos, além de IoT e automações.</p>
+<p data-importer="text" align="left">.✧˖ My name is Raíssa; I hold a technical diploma in Information Technology from IFSertãoPE and am an undergraduate student in Information Systems at UniFAP CE. I work in the field of Software Engineering, developing comprehensive management systems, as well as working on IoT, research, and automation projects.</p>
 
 ###
 
