@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">.✧˖ My name is Raíssa; I hold a technical diploma in Information Technology from IFSertãoPE and am an undergraduate student in Information Systems at UniFAP CE. I work in the field of Software Engineering, developing comprehensive management systems, as well as working on IoT, research, and automation projects.</p>
+<p data-importer="text" align="left">.✧˖ Hii, my name is Raíssa; I hold a technical degree in Information Technology from IFSertãoPE and I am currently pursuing a degree in Information Systems at UniFAP CE. I work in the field of Software Engineering, developing comprehensive management systems, as well as working on IoT projects, research and development..</p>
 
 ###
 
